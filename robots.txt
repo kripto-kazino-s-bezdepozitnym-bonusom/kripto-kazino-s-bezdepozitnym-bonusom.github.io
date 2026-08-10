@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kripto-kazino-s-bezdepozitnym-bonusom.github.io
+Sitemap: https://kripto-kazino-s-bezdepozitnym-bonusom.github.io/sitemap.xml
